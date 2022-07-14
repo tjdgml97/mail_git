@@ -1,5 +1,6 @@
 # Mail Clone coding
 
+step1 : main, home, mailscreen
 
 <img src="https://user-images.githubusercontent.com/82192923/177172499-5112cfd0-d1e0-4729-a9d6-1f0e27c7fdf7.png" width="20%"/>
 아이폰 기본 어플인 Mail을 따라 만든 프로젝트입니다.<br><br>
